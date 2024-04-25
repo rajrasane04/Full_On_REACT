@@ -14,3 +14,23 @@
 
 //---------------------------------------------------------------------------------------------------------------------------------------
 
+// Rules while writing Markup in JSX
+
+// - JSX always Return a single root 
+// - Close all the tags
+// - camelCase most of the things
+
+//---------------------------------------------------------------------------------------------------------------------------------------
+
+// JSX with Curly Braces
+
+// - JSX allows embedding JavaScript expressions within curly braces `{}`
+// - Purpose : Dynamically generate content, compute values, and inject JavaScript logic into JSX.
+
+// for e.g
+
+const name = 'John';
+const element = <h1>Hello, {name}!</h1>;
+
+//---------------------------------------------------------------------------------------------------------------------------------------
+
