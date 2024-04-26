@@ -1,6 +1,7 @@
 // Props
 
 // - Props are the information that you pass to a JSX tag.
+// - We pass the values while rendering the JSX tag in the main component i.e app and declare those values in the component file in which we are writing it's logic
 
 //---------------------------------------------------------------------------------------------------------------------------------------
 
