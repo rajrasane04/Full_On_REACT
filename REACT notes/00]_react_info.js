@@ -8,3 +8,18 @@
 // - React components are JS functions that return markup .
 
 //---------------------------------------------------------------------------------------------------------------------------------------
+
+// two common methods to set up a React environment :- 
+
+// 1) Using Create React App (CRA) 
+// - Open your terminal and run the following command :- npx create-react-app my-app
+// - Start the development server :- npm start
+
+
+// 2) Vite
+// - Open your terminal and run the following command :- npm create vite@latest my-app -- --template react
+// - Install dependencies :- npm install
+// - Start the development server :- npm run dev
+// - And to start the server (if present) :- npm start
+
+//---------------------------------------------------------------------------------------------------------------------------------------
