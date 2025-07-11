@@ -9,4 +9,4 @@ I am using this repo to store my REACT notes. <br> Each JS file corresponds to a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rajrasane04/Mastering_REACT.git
+   git clone https://github.com/rajrasane/REACT-Notes.git
